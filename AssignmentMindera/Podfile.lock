@@ -1,0 +1,22 @@
+PODS:
+  - SDWebImage (5.11.1):
+    - SDWebImage/Core (= 5.11.1)
+  - SDWebImage/Core (5.11.1)
+  - Toucan (1.1.0)
+
+DEPENDENCIES:
+  - SDWebImage
+  - Toucan
+
+SPEC REPOS:
+  trunk:
+    - SDWebImage
+    - Toucan
+
+SPEC CHECKSUMS:
+  SDWebImage: a7f831e1a65eb5e285e3fb046a23fcfbf08e696d
+  Toucan: 8f228fabb21521b9658692df9325fe76e71d74b2
+
+PODFILE CHECKSUM: 648576b4996a8b6a5a3afcf2657f2ab0a242da30
+
+COCOAPODS: 1.10.1
